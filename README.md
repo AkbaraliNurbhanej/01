@@ -1,2 +1,2 @@
 ﻿# html-trure
-# [Projects Site]((https://htmlbyakbarali.netlify.app)
+# [Projects Site](https://htmlbyakbarali.netlify.app)
